@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Naruto","characterIndex":0,"characterName":"$Hero01","classId":1,"equips":[0,1,0,3,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Naruto","nickname":"","note":"<Passive State: 25>\nParty: Lock Actor 1\n\n<Column 1 Variables: 6, 7, 8, 9, 10>\n\n<Column 2 Variables: 41 to 47>","profile":""},
+{"id":2,"battlerName":"Sakura","characterIndex":0,"characterName":"$Sakura","classId":2,"equips":[2,1,0,3,0],"faceIndex":3,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sakura","nickname":"","note":"<Replace Attack: 15>\n\n<Set Distribution Stats: mhp, mmp, atk, def, mat, mdf, agi, cri, rec>","profile":""},
+{"id":3,"battlerName":"Lee","characterIndex":0,"characterName":"$RockLee","classId":3,"equips":[8,54,9,23,36],"faceIndex":2,"faceName":"Actor44","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rock Lee","nickname":"","note":"<Replace Attack: 38>\n\n<Set Distribution Stats: mhp, atk, def, mdf, agi, eva, cri, mev, cnt, hrg>","profile":""},
+{"id":4,"battlerName":"Actor3_6","characterIndex":0,"characterName":"$Tsunade","classId":4,"equips":[3,52,5,17,30],"faceIndex":2,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tsunade","nickname":"","note":"<Replace Attack: 45>","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"NarutoK","characterIndex":0,"characterName":"$Hero01","classId":10,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"NarClone","nickname":"","note":"<Pet>\n\n<Summon Turns: 3>","profile":""}
+]
